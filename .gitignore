@@ -1,0 +1,36 @@
+# MPLAB X build artifacts
+build/
+dist/
+debug/
+nbproject/private/
+
+# MPLAB X intermediate files
+*.p1
+*.p1.d
+*.d
+*.o
+*.elf
+*.hex
+*.map
+*.sym
+*.lst
+*.cmf
+*.cof
+
+# KiCAD local files
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.kicad_pcb-bak
+*-rescue.kicad_sch
+*-rescue.lib
+
+# Local datasheets (download from official sources)
+Documentation/Local/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/tool directories
+.claude/
