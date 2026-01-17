@@ -1,0 +1,2554 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BMP180\nDigital pressure sensor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.48050457164082,
+          63.72502558802454
+        ],
+        [
+          311.90569653258814,
+          63.72502558802454
+        ],
+        [
+          311.90569653258814,
+          118.4535769753868
+        ],
+        [
+          64.48050457164082,
+          118.4535769753868
+        ]
+      ]
+    },
+    {
+      "title": "BMP180 Data sheet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.231184644723115,
+          564.5287560915585
+        ],
+        [
+          158.20216819321178,
+          564.5287560915585
+        ],
+        [
+          158.20216819321178,
+          576.764561355114
+        ],
+        [
+          62.231184644723115,
+          576.764561355114
+        ]
+      ]
+    },
+    {
+      "title": "BMP180",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          277.41612431985004,
+          117.9839124083519
+        ],
+        [
+          341.1468555825183,
+          117.9839124083519
+        ],
+        [
+          341.1468555825183,
+          131.1985820929917
+        ],
+        [
+          277.41612431985004,
+          131.1985820929917
+        ]
+      ]
+    },
+    {
+      "title": "DIGITAL PRESSURE SENSOR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          215.9347129840995,
+          153.68976759464744
+        ],
+        [
+          402.6282669182688,
+          153.68976759464744
+        ],
+        [
+          402.6282669182688,
+          165.6850665288638
+        ],
+        [
+          215.9347129840995,
+          165.6850665288638
+        ]
+      ]
+    },
+    {
+      "title": "Key features",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.787657022476196,
+          185.92713348035394
+        ],
+        [
+          131.21032907019935,
+          185.92713348035394
+        ],
+        [
+          131.21032907019935,
+          197.92243241457035
+        ],
+        [
+          62.787657022476196,
+          197.92243241457035
+        ]
+      ]
+    },
+    {
+      "title": "Typical applications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.980957953695686,
+          484.31019446898654
+        ],
+        [
+          169.44876782780028,
+          484.31019446898654
+        ],
+        [
+          169.44876782780028,
+          495.55578721981436
+        ],
+        [
+          62.980957953695686,
+          495.55578721981436
+        ]
+      ]
+    },
+    {
+      "title": "Data sheet BMP180",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          267.66907130320664,
+          52.62000274658203
+        ],
+        [
+          324.402894616127,
+          52.62000274658203
+        ],
+        [
+          324.402894616127,
+          77.28562903404236
+        ],
+        [
+          267.66907130320664,
+          77.28562903404236
+        ]
+      ]
+    },
+    {
+      "title": "BMP180 general description",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.980957953695686,
+          117.9839124083519
+        ],
+        [
+          212.18584643923666,
+          117.9839124083519
+        ],
+        [
+          212.18584643923666,
+          128.94946354282612
+        ],
+        [
+          62.980957953695686,
+          128.94946354282612
+        ]
+      ]
+    },
+    {
+      "title": "Index of Contents",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.20628982782364,
+          116.20445842522122
+        ],
+        [
+          157.4523948842392,
+          116.20445842522122
+        ],
+        [
+          157.4523948842392,
+          127.45005117604909
+        ],
+        [
+          62.20628982782364,
+          127.45005117604909
+        ]
+      ]
+    },
+    {
+      "title": "Data sheet BMP180",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          266.9192979942341,
+          52.47943283719668
+        ],
+        [
+          323.9020694761492,
+          52.47943283719668
+        ],
+        [
+          323.9020694761492,
+          77.21973688901798
+        ],
+        [
+          266.9192979942341,
+          77.21973688901798
+        ]
+      ]
+    },
+    {
+      "title": "1. Electrical characteristics",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          62.20628982782364,
+          117.70387079199827
+        ],
+        [
+          257.9220182865633,
+          117.70387079199827
+        ],
+        [
+          257.9220182865633,
+          130.44887590960317
+        ],
+        [
+          62.20628982782364,
+          130.44887590960317
+        ]
+      ]
+    },
+    {
+      "title": "BOSCH",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          64.24107500910759,
+          56.2279637541393
+        ],
+        [
+          146.2057952496507,
+          56.2279637541393
+        ],
+        [
+          146.2057952496507,
+          80.98547297716141
+        ],
+        [
+          64.24107500910759,
+          80.98547297716141
+        ]
+      ]
+    },
+    {
+      "title": "2. Absolute maximum ratings",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          61.48141133575055,
+          150.69094286109333
+        ],
+        [
+          272.9174844660146,
+          150.69094286109333
+        ],
+        [
+          272.9174844660146,
+          168.68389126241792
+        ],
+        [
+          61.48141133575055,
+          168.68389126241792
+        ]
+      ]
+    },
+    {
+      "title": "3. Operation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          62.231184644723115,
+          134.42766326665878
+        ],
+        [
+          151.45420841245866,
+          134.42766326665878
+        ],
+        [
+          151.45420841245866,
+          149.19153049431628
+        ],
+        [
+          62.231184644723115,
+          149.19153049431628
+        ]
+      ]
+    },
+    {
+      "title": "3.1 General description",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          62.20628982782364,
+          169.43359744580644
+        ],
+        [
+          186.69355393416936,
+          169.43359744580644
+        ],
+        [
+          186.69355393416936,
+          180.6791901966343
+        ],
+        [
+          62.20628982782364,
+          180.6791901966343
+        ]
+      ]
+    },
+    {
+      "title": "3.2 General function and application schematics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          62.980957953695686,
+          249.53391927480698
+        ],
+        [
+          317.15410969539613,
+          249.53391927480698
+        ],
+        [
+          317.15410969539613,
+          260.22235733270645
+        ],
+        [
+          62.980957953695686,
+          260.22235733270645
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Measurement of pressure and temperature",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.787657022476196,
+          117.9839124083519
+        ],
+        [
+          305.9075100608076,
+          117.9839124083519
+        ],
+        [
+          305.9075100608076,
+          128.94946354282612
+        ],
+        [
+          62.787657022476196,
+          128.94946354282612
+        ]
+      ]
+    },
+    {
+      "title": "3.3.1 Hardware pressure sampling accuracy modes",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          62.980957953695686,
+          117.9839124083519
+        ],
+        [
+          333.6491224927926,
+          117.9839124083519
+        ],
+        [
+          333.6491224927926,
+          129.69916972621465
+        ],
+        [
+          62.980957953695686,
+          129.69916972621465
+        ]
+      ]
+    },
+    {
+      "title": "3.3.2 Software pressure sampling accuracy modes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.787657022476196,
+          118.4535769753868
+        ],
+        [
+          329.1504826389572,
+          118.4535769753868
+        ],
+        [
+          329.1504826389572,
+          129.49453800916672
+        ],
+        [
+          62.787657022476196,
+          129.49453800916672
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Calibration coefficients",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.980957953695686,
+          356.1104371095489
+        ],
+        [
+          204.68811334951099,
+          356.1104371095489
+        ],
+        [
+          204.68811334951099,
+          366.28455036878586
+        ],
+        [
+          62.980957953695686,
+          366.28455036878586
+        ]
+      ]
+    },
+    {
+      "title": "Data sheet BMP180",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          267.66907130320664,
+          52.62000274658203
+        ],
+        [
+          324.6518427851218,
+          52.62000274658203
+        ],
+        [
+          324.6518427851218,
+          77.28562903404236
+        ],
+        [
+          267.66907130320664,
+          77.28562903404236
+        ]
+      ]
+    },
+    {
+      "title": "3.5 Calculating pressure and temperature",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.20628982782364,
+          117.9839124083519
+        ],
+        [
+          281.91476417368546,
+          117.9839124083519
+        ],
+        [
+          281.91476417368546,
+          129.69916972621465
+        ],
+        [
+          62.20628982782364,
+          129.69916972621465
+        ]
+      ]
+    },
+    {
+      "title": "Calculation of pressure and temperature for BMP180",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          74.2275575882842,
+          95.7848487496376
+        ],
+        [
+          296.49726927280426,
+          95.7848487496376
+        ],
+        [
+          296.49726927280426,
+          104.95886567439337
+        ],
+        [
+          74.2275575882842,
+          104.95886567439337
+        ]
+      ]
+    },
+    {
+      "title": "3.6 Calculating absolute altitude",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          62.20628982782364,
+          117.70387079199827
+        ],
+        [
+          232.429725781496,
+          117.70387079199827
+        ],
+        [
+          232.429725781496,
+          129.69916972621465
+        ],
+        [
+          62.20628982782364,
+          129.69916972621465
+        ]
+      ]
+    },
+    {
+      "title": "Data sheet BMP180",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          267.4289095401764,
+          52.62000274658203
+        ],
+        [
+          323.9020694761492,
+          52.62000274658203
+        ],
+        [
+          323.9020694761492,
+          77.28562903404236
+        ],
+        [
+          267.4289095401764,
+          77.28562903404236
+        ]
+      ]
+    },
+    {
+      "title": "3.7 Calculating pressure at sea level",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          62.231184644723115,
+          128.2612566947937
+        ],
+        [
+          254.922925050673,
+          128.2612566947937
+        ],
+        [
+          254.922925050673,
+          140.9447624770425
+        ],
+        [
+          62.231184644723115,
+          140.9447624770425
+        ]
+      ]
+    },
+    {
+      "title": "4. Global Memory Map",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          62.20628982782364,
+          118.80609995126724
+        ],
+        [
+          224.18221938279774,
+          118.80609995126724
+        ],
+        [
+          224.18221938279774,
+          132.7832881808281
+        ],
+        [
+          62.20628982782364,
+          132.7832881808281
+        ]
+      ]
+    },
+    {
+      "title": "5. I<sup>2</sup>C Interface",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          61.48141133575055,
+          115.4547522418327
+        ],
+        [
+          168.69899451882773,
+          115.4547522418327
+        ],
+        [
+          168.69899451882773,
+          129.69916972621465
+        ],
+        [
+          61.48141133575055,
+          129.69916972621465
+        ]
+      ]
+    },
+    {
+      "title": "5.1 I<sup>2</sup>C specification",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          62.231184644723115,
+          315.6263032065686
+        ],
+        [
+          169.44876782780028,
+          315.6263032065686
+        ],
+        [
+          169.44876782780028,
+          328.46392339468
+        ],
+        [
+          62.231184644723115,
+          328.46392339468
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Device and register address",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          62.20628982782364,
+          144.2939137816429
+        ],
+        [
+          230.18040585457828,
+          144.2939137816429
+        ],
+        [
+          230.18040585457828,
+          155.18917996142446
+        ],
+        [
+          62.20628982782364,
+          155.18917996142446
+        ]
+      ]
+    },
+    {
+      "title": "5.3 I<sup>2</sup>C protocol",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          62.20628982782364,
+          320.12454030689975
+        ],
+        [
+          145.4560219406781,
+          320.12454030689975
+        ],
+        [
+          145.4560219406781,
+          330.93048602342606
+        ],
+        [
+          62.20628982782364,
+          330.93048602342606
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Start temperature and pressure measurement",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          62.787657022476196,
+          117.9839124083519
+        ],
+        [
+          323.2401602268219,
+          117.9839124083519
+        ],
+        [
+          323.2401602268219,
+          128.94946354282612
+        ],
+        [
+          62.787657022476196,
+          128.94946354282612
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations:",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          62.787657022476196,
+          380.2617385983467
+        ],
+        [
+          134.95919561506219,
+          380.2617385983467
+        ],
+        [
+          134.95919561506219,
+          392.0963339121981
+        ],
+        [
+          62.787657022476196,
+          392.0963339121981
+        ]
+      ]
+    },
+    {
+      "title": "5.5 Read A/D conversion result or E2PROM data",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.980957953695686,
+          116.33953732252121
+        ],
+        [
+          313.4052431505333,
+          116.33953732252121
+        ],
+        [
+          313.4052431505333,
+          128.67235046625137
+        ],
+        [
+          62.980957953695686,
+          128.67235046625137
+        ]
+      ]
+    },
+    {
+      "title": "6. Package",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          61.48141133575055,
+          113.95533987505566
+        ],
+        [
+          146.95556855862327,
+          113.95533987505566
+        ],
+        [
+          146.95556855862327,
+          130.44887590960317
+        ],
+        [
+          61.48141133575055,
+          130.44887590960317
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Pin configuration",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          62.231184644723115,
+          148.40485149621964
+        ],
+        [
+          173.9474076816357,
+          148.40485149621964
+        ],
+        [
+          173.9474076816357,
+          160.43712324514414
+        ],
+        [
+          62.231184644723115,
+          160.43712324514414
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Outline dimensions",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          62.231184644723115,
+          117.70387079199827
+        ],
+        [
+          185.1940073162242,
+          117.70387079199827
+        ],
+        [
+          185.1940073162242,
+          128.1997573594376
+        ],
+        [
+          62.231184644723115,
+          128.1997573594376
+        ]
+      ]
+    },
+    {
+      "title": "6.2.1 Bottom view",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          62.231184644723115,
+          214.41596844911786
+        ],
+        [
+          158.20216819321178,
+          214.41596844911786
+        ],
+        [
+          158.20216819321178,
+          225.66156119994574
+        ],
+        [
+          62.231184644723115,
+          225.66156119994574
+        ]
+      ]
+    },
+    {
+      "title": "6.2.2 Top view",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          61.91560623049736,
+          117.70387079199827
+        ],
+        [
+          139.4578354688976,
+          117.70387079199827
+        ],
+        [
+          139.4578354688976,
+          129.69916972621465
+        ],
+        [
+          61.91560623049736,
+          129.69916972621465
+        ]
+      ]
+    },
+    {
+      "title": "6.2.3 Side view",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          62.231184644723115,
+          463.3184213341078
+        ],
+        [
+          143.20670201376043,
+          463.3184213341078
+        ],
+        [
+          143.20670201376043,
+          474.8133060336113
+        ],
+        [
+          62.231184644723115,
+          474.8133060336113
+        ]
+      ]
+    },
+    {
+      "title": "Data sheet BMP180",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          267.66907130320664,
+          52.20890897512436
+        ],
+        [
+          324.11221101880074,
+          52.20890897512436
+        ],
+        [
+          324.11221101880074,
+          77.69672280550003
+        ],
+        [
+          267.66907130320664,
+          77.69672280550003
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Moisture sensitivity level and soldering",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          62.980957953695686,
+          118.39500617980957
+        ],
+        [
+          289.4124972634111,
+          118.39500617980957
+        ],
+        [
+          289.4124972634111,
+          129.9056317806244
+        ],
+        [
+          62.980957953695686,
+          129.9056317806244
+        ]
+      ]
+    },
+    {
+      "title": "6.4 RoHS compliancy",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          62.787657022476196,
+          313.6645476222038
+        ],
+        [
+          176.94650091752598,
+          313.6645476222038
+        ],
+        [
+          176.94650091752598,
+          324.3529856801033
+        ],
+        [
+          62.787657022476196,
+          324.3529856801033
+        ]
+      ]
+    },
+    {
+      "title": "6.5 Mounting and assembly recommendations",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          62.980957953695686,
+          467.816658434439
+        ],
+        [
+          306.6572833697802,
+          467.816658434439
+        ],
+        [
+          306.6572833697802,
+          478.31254500187833
+        ],
+        [
+          62.980957953695686,
+          478.31254500187833
+        ]
+      ]
+    },
+    {
+      "title": "7. Legal disclaimer",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          62.787657022476196,
+          118.39500617980957
+        ],
+        [
+          198.68992687773044,
+          118.39500617980957
+        ],
+        [
+          198.68992687773044,
+          133.19438195228577
+        ],
+        [
+          62.787657022476196,
+          133.19438195228577
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Engineering samples",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          61.91560623049736,
+          149.22703903913498
+        ],
+        [
+          194.19128702389503,
+          149.22703903913498
+        ],
+        [
+          194.19128702389503,
+          160.43712324514414
+        ],
+        [
+          61.91560623049736,
+          160.43712324514414
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Product use",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          62.787657022476196,
+          274.3924631201998
+        ],
+        [
+          146.95556855862327,
+          274.3924631201998
+        ],
+        [
+          146.95556855862327,
+          284.1386435042506
+        ],
+        [
+          62.787657022476196,
+          284.1386435042506
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Application examples and hints",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          61.62492263317108,
+          525.5440345553553
+        ],
+        [
+          248.92473857889246,
+          525.5440345553553
+        ],
+        [
+          248.92473857889246,
+          537.2995592951775
+        ],
+        [
+          61.62492263317108,
+          537.2995592951775
+        ]
+      ]
+    },
+    {
+      "title": "8. Document history and modification",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          61.48141133575055,
+          115.4547522418327
+        ],
+        [
+          332.89934918382005,
+          115.4547522418327
+        ],
+        [
+          332.89934918382005,
+          133.44770064315728
+        ],
+        [
+          61.48141133575055,
+          133.44770064315728
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          161
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          29
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          53
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          177
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          88
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/BMP180_Datasheet"
+}
