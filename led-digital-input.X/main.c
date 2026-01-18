@@ -17,7 +17,7 @@
 // define pins and digital switch states
 #define LED             RD0
 #define SWITCH          RD1
-#define SWITCH_PRESSED  0sy
+#define SWITCH_PRESSED  0
 
 // define function to read button press and turn on light
 void buttonRead(void) {
