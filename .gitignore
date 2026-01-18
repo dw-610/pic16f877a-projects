@@ -1,8 +1,8 @@
 # MPLAB X build artifacts
-build/
-dist/
-debug/
-nbproject/private/
+**/build/
+**/dist/
+**/debug/
+**/nbproject/private/
 
 # MPLAB X intermediate files
 *.p1
