@@ -58,14 +58,16 @@ Use the PIC16F877A's **MSSP module in I2C master mode**.
 
 ## Hardware Wiring
 
-| BMP180 Pin | PIC Pin | Notes |
-|------------|---------|-------|
-| VDD | 3.3V | **Not 5V tolerant** |
-| GND | GND | |
-| SDA | RC4 | 4.7kΩ pull-up to 3.3V |
-| SCL | RC3 | 4.7kΩ pull-up to 3.3V |
+Using a BMP180 breakout board with onboard 3.3V regulator and pull-ups:
 
-**Voltage note:** If the PIC runs at 5V, you'll need a level shifter or run the PIC at 3.3V.
+| BMP180 Board Pin | PIC Pin | Notes |
+|------------------|---------|-------|
+| VIN | 5V | Board regulates to 3.3V internally |
+| GND | GND | |
+| SDA | RC4 | Board provides 3.3V pull-up |
+| SCL | RC3 | Board provides 3.3V pull-up |
+
+**Voltage note:** The breakout board runs SDA/SCL at 3.3V via its internal pull-ups. The PIC (at 5V) only pulls these lines low, which is safe. **Do NOT add external 4.7kΩ pull-ups** - they would pull the lines to 5V and damage the sensor.
 
 ---
 
@@ -107,7 +109,7 @@ Read from EEPROM at addresses 0xAA-0xBF (11 words, 16-bit each):
 - [x] I2C driver (`i2c.c`, `i2c.h`)
 - [x] BMP180 driver (`bmp180.c`, `bmp180.h`)
 - [x] Main loop integration
-- [ ] Testing with hardware
+- [x] Testing with hardware
 
 ---
 

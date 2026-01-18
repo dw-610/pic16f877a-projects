@@ -4,6 +4,11 @@
 **/debug/
 **/nbproject/private/
 
+# MPLAB X debug/trace logs
+**/defmplabxtrace.log
+**/defmplabxtrace.log.inx
+**/queuelogs/
+
 # MPLAB X intermediate files
 *.p1
 *.p1.d

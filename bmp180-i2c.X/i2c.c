@@ -31,7 +31,9 @@ void i2c_init(void) {
      *
      * RC3 (SCL) and RC4 (SDA) must be configured as inputs.
      * The MSSP module overrides these to open-drain outputs when needed.
-     * External pull-up resistors (4.7k to VDD) are required.
+     * Pull-up resistors are required on SDA/SCL. When using a BMP180 breakout
+     * board with onboard 3.3V regulator and pull-ups, no external pull-ups
+     * are needed - the PIC (at 5V) simply pulls the 3.3V lines low.
      *
      * Reference: Datasheet Section 9.4.2, page 85
      *   "Selection of any I2C mode, with the SSPEN bit set, forces the

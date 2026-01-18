@@ -9,7 +9,8 @@
  *   - Fast blink (100ms): Error during initialization
  *
  * Hardware:
- *   - BMP180 sensor connected to RC3 (SCL) and RC4 (SDA) with 4.7k pull-ups
+ *   - BMP180 breakout board connected to RC3 (SCL) and RC4 (SDA)
+ *     (board has onboard 3.3V regulator and pull-ups; no external pull-ups needed)
  *   - LED connected to RD0 (with current limiting resistor)
  *
  * Reference: BMP180 Datasheet (Bosch BST-BMP180-DS000-09)
@@ -47,6 +48,8 @@ void main(void) {
     uint8_t status;
     int32_t raw_temp;
     int32_t raw_pressure;
+    volatile int16_t temp_f_tenths;
+    volatile int16_t pressure_inhg_hundredths;
 
     /*
      * Step 1: Configure I/O pins
@@ -61,7 +64,7 @@ void main(void) {
      * Step 2: Initialize I2C master
      *
      * Configures MSSP module for 100 kHz I2C master mode.
-     * RC3 = SCL, RC4 = SDA with external pull-ups required.
+     * RC3 = SCL, RC4 = SDA (pull-ups provided by BMP180 breakout board).
      *
      * Reference: PIC16F877A Datasheet, Section 9.4
      */
@@ -132,6 +135,9 @@ void main(void) {
          * Reference: BMP180 Datasheet, Section 3.5, Figure 4, page 14
          */
         bmp180_compensate(&cal, raw_temp, raw_pressure, PRESSURE_OSS, &result);
+        
+        temp_f_tenths = ((result.temp * 9) / 5 + 320);
+        pressure_inhg_hundredths = (result.pressure * 100) / 3386 + 115;
 
         /*
          * At this point, result.temp and result.pressure contain the
